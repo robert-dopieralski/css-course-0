@@ -1,21 +1,19 @@
-body 
+#main-content p
 {
     color: red;
 }
 
-div 
+p
 {
-    color: blue;
+    color: black;
 }
 
-p
+#main-content .test
+{
+    color: rgb(0, 255, 0);
+}
+
+strong
 {
     color: green;
 }
-
-a
-{
-    color: grey;
-    text-decoration: none;
-}
-
