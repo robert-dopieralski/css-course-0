@@ -3,8 +3,8 @@
 /*  style all p tags */
 p
 {
-    font-size: 18px;
-    color: rgb(109, 98, 78);
+    font-size: 12px;
+    color: red;
 }
 /*  style all p tags in header */
 #header p 
@@ -14,5 +14,20 @@ p
 /*  style all h1 tags */
 h1
 {
-    font-size: 44px;
+    font-size: 32px;
+}
+a
+{
+    text-decoration: none :
+    color: blue;
+}
+span
+{
+    text-transform: uppercase;
+
+}
+div
+{
+    width: 100%;
+    background-color: grey;
 }
