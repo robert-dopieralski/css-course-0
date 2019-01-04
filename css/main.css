@@ -1,5 +1,17 @@
+/*  style all p tags */
 p
 {
     font-size: 18px;
-    color: orange;
+    color: rgb(109, 98, 78);
+}
+/*  style all p tags in header */
+#header p 
+{
+    font-size: 24px;
+}
+/*  style all h1 tags */
+h1
+{
+    font-size: 44px;
+    position: absolute;
 }
