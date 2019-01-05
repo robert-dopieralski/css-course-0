@@ -1,7 +1,4 @@
-p, span, a, li
+#main-content #sub-content p
 {
-    color: red !important;
-    font-size: 14px;
-    font-weight: bold;
-    font-family: Arial;
+    color: lightgray;
 }
