@@ -1,4 +1,4 @@
-#main-content #sub-content p
+#main-content > p
 {
-    color: lightgray;
+    color: magenta;
 }
