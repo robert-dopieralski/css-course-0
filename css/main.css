@@ -1,19 +1,9 @@
-#main-content p
-{
-    color: red;
-}
-
 p
 {
-    color: black;
+    color: red !important;
 }
 
-#main-content .test
-{
-    color: rgb(0, 255, 0);
-}
-
-strong
+#main-content p
 {
     color: green;
 }
