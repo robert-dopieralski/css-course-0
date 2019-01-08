@@ -1,14 +1,14 @@
-#header p
+#header h1
 {
-    text-transform: capitalize;
+    color: chocolate;
 }
-body
+#header h2
 {
-    text-transform: uppercase;
+    color: #567398;
 }
-body > p
+#header
 {
-    text-transform: none;
+    background: antiquewhite
 }
 a
 {
