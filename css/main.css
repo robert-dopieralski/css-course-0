@@ -1,23 +1,25 @@
-*
+#main-content div
 {
-    
+    background-color: #ccc;
+    margin: 0 0 20px 0;
 }
-.block
+.static-width
 {
-    padding:10px;
-    margin:10px;
-    border:1px solid #000;
+    width: 300px;
+    height: 100px;
 }
 
-.inline
+.percentage-width
 {
-    padding: 10px;
-    margin: 10px;
-    border: 1px solid #000;
+    width: 70%;
+    height: 50px;
+}
+
+.inline-block
+{
+    width: 40%;
     display: inline-block;
 }
-
-
 a
 {
     padding: 10px;
