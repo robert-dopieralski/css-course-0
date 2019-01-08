@@ -12,9 +12,8 @@ a:hover
     background-color: aquamarine;
 }
 p{
-    font-size: 12px;
-    letter-spacing: 0.2em;
-    word-spacing: 2px;
-    line-height: 1.5em;
-    
+    font-size: 14px;
+    line-height: 2em;
+    margin-bottom: 32px;
+        
 }
