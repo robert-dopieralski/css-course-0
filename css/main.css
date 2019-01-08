@@ -1,17 +1,6 @@
-span[class~="deck"]
-{
-    color: purple;
+article p:first-child{
+    font-weight: bold;
 }
-
-div[id]
-{
-    background: grey;
-}
-a[href$="pdf"]
-{
-    color: olive;
-}
-a[href^="http"]
-{
-    color: pink;
+article p:last-child{
+    color: red;
 }
