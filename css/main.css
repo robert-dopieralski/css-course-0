@@ -1,29 +1,11 @@
-#main-content div
-{
-    background-color: #ccc;
-    margin: 0 0 20px 0;
-}
 .static-width
 {
     width: 300px;
-    height: 100px;
-    border-radius: 30px;
+    height: 300px;
+    background: url('../img/download.png') no-repeat top center;
+    background-color: #606060;
+    background-size: 200px;
 }
-
-.percentage-width
-{
-    width: 70%;
-    height: 50px;
-    border-radius: 10px 20px;
-}
-
-.inline-block
-{
-    width: 100PX;
-    HEIGHT: 100PX;
-    border-radius: 50px;
-}
-
 
 
 a
