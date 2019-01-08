@@ -11,3 +11,10 @@ a:hover
     text-decoration: underline;
     background-color: aquamarine;
 }
+p{
+    font-size: 12px;
+    letter-spacing: 0.2em;
+    word-spacing: 2px;
+    line-height: 1.5em;
+    
+}
