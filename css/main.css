@@ -1,8 +1,4 @@
-article.featured-content
+*
 {
-    background: red;
-}
-div.featured-content
-{
-    background: blue;
+    color: red;
 }
