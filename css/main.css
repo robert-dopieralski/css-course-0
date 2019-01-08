@@ -1,10 +1,15 @@
-article
+h1
 {
-    text-decoration: none;
+    font-weight: normal;
+}
+p
+{
+    font-family: "Yu Gothic";
+    font-weight: 500;
 }
 a
 {
-    text-decoration: line-through;
+    text-decoration: none;
 }
 a:hover
 {
