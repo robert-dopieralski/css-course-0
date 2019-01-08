@@ -1,12 +1,12 @@
 article
 {
-    font-size: 16px;
+    text-decoration: none;
 }
-article h2
+a
 {
-    font-size: 4em;
+    text-decoration: line-through;
 }
-article p
+a:hover
 {
-    font-size: 500%;
+    text-decoration: underline;
 }
